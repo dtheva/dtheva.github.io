@@ -4,12 +4,5 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am a PhD student studying Neuroscience under the Neuroscience Collaborative The Graduate Center of the City University of New York.  I work in [Dan McCloskey's Lab] (https://mccloskey.neuro.nyc) at the College of Staten Island where we are interested in the physiological and behavioral dynamics of the African Naked Mole-Rat. 
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
